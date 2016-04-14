@@ -2,7 +2,7 @@
 
 ## About
 
-This is [my personal site](http://johnreesman.com/). Uses [Jekyll](https://github.com/jekyll/jekyll) for static site generation.
+This is [my personal site](http://jreesman.com/). Uses [Jekyll](https://github.com/jekyll/jekyll) for static site generation.
 
 ## License
 
