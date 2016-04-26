@@ -1,0 +1,32 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               jreesman
+tagline:             thanks for the feedback
+# url:                 http://jreesman.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              John Reesman
+  url:               https://twitter.com/jreesman
+  email:             john.reesman@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https:jreesman.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
